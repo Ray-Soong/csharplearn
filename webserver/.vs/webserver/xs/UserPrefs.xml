@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{2559AD40-246D-4E55-8C0C-760318AB48CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webserver/Program.cs">
+    <Files>
+      <File FileName="webserver/Program.cs" Line="18" Column="1" />
+      <File FileName="webserver/SimpleWebServer.cs" Line="11" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.webserver FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
